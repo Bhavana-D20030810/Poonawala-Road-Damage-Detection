@@ -1,0 +1,3 @@
+ultralytics==8.4.165
+gradio>=5,<7
+Pillow>=10,<13
